@@ -1,6 +1,8 @@
 <h1 align="center">Hello! I'm Guilherme Oliveira.</h1>
 <h3 align="center">Studying & coding.</h3>
+
 ## 💻 About me
+
 - 🎓 Studying System Analysis and Development at **Impacta SP**
 - 🌱 Learning **Python, Financial Market**
 - 💼 Currently working as Railway Maintenance at **ViaMobilidade**
