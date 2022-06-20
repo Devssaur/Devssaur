@@ -1,10 +1,10 @@
 <h1 align="center">Hello! I'm Guilherme Oliveira.</h1>
 <h3 align="center">Studying & coding.</h3>
-
--🎓 Studying System Analysis and Development at Impacta SP
--🌱 Learning Python
--💼 Currently working as Railway Maintenance at ViaMobilidade
--📫 How to reach me: guilherme.oliveira.antonio@gmail.com
+## 💻 About me
+- 🎓 Studying System Analysis and Development at **Impacta SP**
+- 🌱 Learning **Python, Financial Market**
+- 💼 Currently working as Railway Maintenance at **ViaMobilidade**
+- 📫 How to reach me: **guilherme.oliveira.antonio@gmail.com**
 
 
 ## 💬 Find me on
