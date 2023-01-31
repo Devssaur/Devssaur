@@ -13,4 +13,5 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/guitech/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Guilherme-Linkedin" height="30" width="40" /></a>
 
+  [![An image of @guihtech's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/guihtech)](https://holopin.io/@guihtech)
 </p>
